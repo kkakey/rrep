@@ -4,19 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-geopandas = "==0.14.4"
+geopandas = "*"
 matplotlib = "*"
 maup = "*"
-pandas = "*"
-numpy = "==1.26.4"
 networkx = "*"
 gerrychain = "*"
 gerrytools = "*"
 gurobipy = "*"
-openpyxl = "*"
+pandas = "*"
+fiona = "==1.9.6"
 polars = "*"
-pygris = "*"
-mapclassify = "*"
 
 [dev-packages]
 ipykernel = "*"

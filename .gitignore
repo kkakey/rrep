@@ -1,0 +1,8 @@
+**/raw_data/**
+**/raw-data/**
+*.DS_Store
+*archive*
+*.pdf
+*.pptx
+*.docx
+**dvc**
