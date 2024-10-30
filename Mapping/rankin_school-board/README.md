@@ -19,14 +19,8 @@ Code
 
 Maps
 
-- Illustrative plans improving compactness, precinct splits, and allows for a minority influence district compared to the currently enacted 2022 [map](https://github.com/kkakey/rrep/blob/0748a419aeb48c0d6af0a65d9bdb3e3d1bbeecc5/Mapping/rankin_school-board/raw_data/current_districts/ADOPTED-2022-RCSB-Districts-Plan-30x40-1.pdf).
+- Illustrative plans improving compactness, precinct splits, and allows for a minority influence district compared to the currently enacted 2022 [map](https://github.com/kkakey/rrep/blob/0748a419aeb48c0d6af0a65d9bdb3e3d1bbeecc5/Mapping/rankin_school-board/raw_data/current_districts/ADOPTED-2022-RCSB-Districts-Plan-30x40-1.pdf). Plans [1](https://davesredistricting.org/join/5470af52-02ab-421a-95a6-e2249a9c6bc3) and [2](https://davesredistricting.org/join/28673d77-9cc1-4f3a-83e2-df1784518b83) on Dave's Redistricting App.
 <p align="center">
 <img src="https://raw.githubusercontent.com/kkakey/rrep/refs/heads/main/Mapping/rankin_school-board/output/plan1-75083.png" width="400" >
 <img src="https://raw.githubusercontent.com/kkakey/rrep/refs/heads/main/Mapping/rankin_school-board/output-gingles/plan2-20082.png" width="400" >
 </p>
-
-************
-
-On Dave's Redistricting App:
-- [Plan 1](https://davesredistricting.org/join/5470af52-02ab-421a-95a6-e2249a9c6bc3)
-- [Plan 2](https://davesredistricting.org/join/28673d77-9cc1-4f3a-83e2-df1784518b83)
