@@ -25,6 +25,7 @@ Maps
 <img src="https://raw.githubusercontent.com/kkakey/rrep/refs/heads/main/Mapping/rankin_school-board/output-gingles/plan2-20082.png" width="400" >
 </p>
 
+************
 
 On Dave's Redistricting App:
 - [Plan 1](https://davesredistricting.org/join/5470af52-02ab-421a-95a6-e2249a9c6bc3)
