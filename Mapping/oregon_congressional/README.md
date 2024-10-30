@@ -11,6 +11,7 @@ Code
 
 - [OR_CD-MCMC-area_diff.ipynb](https://github.com/kkakey/rrep/blob/main/Mapping/oregon_congressional/OR_CD-MCMC-area_diff.ipynb) - code used to generate a sample of redistricting plans that optimize for plans that minimize area displacement
 - [OR_CD-MCMC-gingles.ipynb](https://github.com/kkakey/rrep/blob/main/Mapping/oregon_congressional/OR_CD-MCMC-gingles.ipynb) - code used to generate a sample of redistricting plans that optimize for plans with a Gingles I majority-minority district
+- [exploratory-county_level](https://github.com/kkakey/rrep/blob/main/Mapping/oregon_congressional/exploratory-county_level.ipynb) - exploratory analysis of population changes from 2020 to 2022 as well as population estimates in 2030
 
 ************
 
@@ -21,4 +22,4 @@ Maps
 <img src="https://raw.githubusercontent.com/kkakey/rrep/refs/heads/main/Mapping/oregon_congressional/output_area_diff/plan1-11252.png" width="400" >
 </p>
 
-- It is impossible to generate a map that allows for a majority-minority district in Oregon
+- It is impossible to generate a map that allows for a majority-minority district in Oregon utilizing 2022 ACS population data
