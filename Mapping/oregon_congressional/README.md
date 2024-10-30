@@ -23,3 +23,7 @@ Maps
 </p>
 
 - It is impossible to generate a map that allows for a majority-minority district in Oregon utilizing 2022 ACS population data
+
+
+On Dave's Redistricting App:
+- [Plan 1](https://davesredistricting.org/join/32da3ab4-add4-4703-a7b2-0d97465fcfb4)
