@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+geopandas = "*"
+matplotlib = "*"
+maup = "==2.0.2"
+networkx = "*"
+gerrychain = "*"
+gerrytools = "*"
+gurobipy = "*"
+pandas = "*"
+fiona = "==1.9.6"
+polars = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"
