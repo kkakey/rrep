@@ -8,8 +8,7 @@ Project Criteria:
 
 Code
 
-- [putnam-county_commissioner-coalition_cvap.ipynb](https://github.com/kkakey/rrep/blob/main/Mapping/putnam_fl-county_commissioner/putnam-county_commissioner-coalition_cvap.ipynb) - code used to generate a sample of redistricting plans that optimize for plans with a Gingles I majority-minority district
-- [exploratory](https://github.com/kkakey/rrep/blob/main/Mapping/putnam_fl-county_commissioner/exploratory.ipynb) - exploratory analysis
+- [hoover-city_council.ipynb](https://github.com/kkakey/rrep/blob/main/Mapping/hoover_al_city_council/hoover-city_council.ipynb) - code used to generate a sample of redistricting plans that optimize for plans with a Gingles I majority-minority district
 
 ************
 
