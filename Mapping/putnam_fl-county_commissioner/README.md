@@ -15,8 +15,8 @@ Code
 
 Maps
 
-- Illustrative plan prioritizing a least change approach from the 2022 enacted map (utilizing 2022 ACS population data). [Map](https://davesredistricting.org/join/32da3ab4-add4-4703-a7b2-0d97465fcfb4) on Dave's Redistricting App.
+- Illustrative plans allowing for a majority-minority Black and Hispanic CVAP district compared to the currently enacted 2021[map](https://raw.githubusercontent.com/kkakey/rrep/refs/heads/main/Mapping/putnam_fl-county_commissioner/figs/putnam-current.jpg). Plans [1](https://davesredistricting.org/join/0a36495e-6ddb-469b-a21f-342572e21df7) and [2](https://davesredistricting.org/join/fdd6b23d-a647-438d-9f1e-cf535fd34979) on Dave's Redistricting App.
 <p align="center">
-<img src="https://raw.githubusercontent.com/kkakey/rrep/refs/heads/main/Mapping/oregon_congressional/output_area_diff/plan1-11252.png" width="400" >
+<img src="https://raw.githubusercontent.com/kkakey/rrep/refs/heads/main/Mapping/putnam_fl-county_commissioner/figs/putnam-27524.jpg" width="400" >
+<img src="https://github.com/kkakey/rrep/blob/main/Mapping/putnam_fl-county_commissioner/figs/putnam-70150.jpg" width="400" >
 </p>
-
